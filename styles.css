@@ -1,0 +1,81 @@
+﻿html {
+	font-family: Tahoma,Arial;
+	font-size: 0.75em;
+	line-height: 1.333em;
+	color: #096dd9;
+	height: 100%;
+	width: 100%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+}
+
+body {
+	background: rgb(240, 242, 245);
+	text-align: left;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+	div.logo {
+		line-height: 2.5em;
+		width: 100%;
+		text-align: left;
+		height: 75px;
+		padding: 10px;
+		padding-left: 90px;
+		background: url(Images/Icon.png) no-repeat 10px 50% #096dd9;
+	}
+
+span.product_name {
+	color: #ff8419;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+span.product_ver {
+	color: #096dd9;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+a.install {
+	display: inline;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	color: #0354a6;
+	background: white;
+	padding: 6px;
+	font-size: 20px;
+	width: 100%;
+	height: 100%;
+	text-decoration: none;
+}
+
+.app-ipa {
+	color: #096dd9;
+	font-size: 24px;
+	margin: 25px 0px 25px 25px;
+}
+
+.app-title
+{
+	font-size: 24px;
+	margin: 25px;
+	color: #096dd9;
+}
+
+.app-block
+{
+	float:left;
+}
+
+.container_apps
+{
+	margin-top: 20px;
+}
